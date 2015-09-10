@@ -3,3 +3,4 @@ more text for testing
 I made another change.
 
 ha.
+A change in renamed_branch
